@@ -1,0 +1,238 @@
+receiving incremental file list
+slab_DDX4-800_ssACUG24-16_1/
+slab_DDX4-800_ssACUG24-16_1/log.1.err
+slab_DDX4-800_ssACUG24-16_1/log.1.out
+slab_DDX4-800_ssACUG24-16_1/log.2.err
+slab_DDX4-800_ssACUG24-16_1/log.2.out
+slab_DDX4-800_ssACUG24-16_1/prepare.py
+slab_DDX4-800_ssACUG24-16_1/sbtach_repeat.sh
+slab_DDX4-800_ssACUG24-16_1/submit1.slurm
+slab_DDX4-800_ssACUG24-16_1/submit2.slurm
+slab_DDX4-800_ssACUG24-16_1/submit3.slurm
+slab_DDX4-800_ssACUG24-16_1/submit4.slurm
+slab_DDX4-800_ssACUG24-16_1/submit5.slurm
+slab_DDX4-800_ssACUG24-16_1/submit6.slurm
+slab_DDX4-800_ssACUG24-16_1/write_submit.sh
+slab_DDX4-800_ssACUG24-16_1/input/
+slab_DDX4-800_ssACUG24-16_1/input/acug.pdb
+slab_DDX4-800_ssACUG24-16_1/input/domains.yaml
+slab_DDX4-800_ssACUG24-16_1/input/fastalib.fasta
+slab_DDX4-800_ssACUG24-16_1/input/residues_C2RNA.csv
+slab_DDX4-800_ssACUG24-16_1/md/
+slab_DDX4-800_ssACUG24-16_1/md/angles_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_1/md/basebase_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_1/md/bonds_DDX4.txt
+slab_DDX4-800_ssACUG24-16_1/md/bonds_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_1/md/checkpoint.pdb
+slab_DDX4-800_ssACUG24-16_1/md/components.yaml
+slab_DDX4-800_ssACUG24-16_1/md/config.yaml
+slab_DDX4-800_ssACUG24-16_1/md/equilibration_final.pdb
+slab_DDX4-800_ssACUG24-16_1/md/equilibration_md.dcd
+slab_DDX4-800_ssACUG24-16_1/md/log.1.run
+slab_DDX4-800_ssACUG24-16_1/md/log.2.run
+slab_DDX4-800_ssACUG24-16_1/md/md.dcd
+slab_DDX4-800_ssACUG24-16_1/md/md.log
+slab_DDX4-800_ssACUG24-16_1/md/md.xml
+slab_DDX4-800_ssACUG24-16_1/md/md_20252706_01h30m07s.pdb
+slab_DDX4-800_ssACUG24-16_1/md/restart.chk
+slab_DDX4-800_ssACUG24-16_1/md/run.py
+slab_DDX4-800_ssACUG24-16_1/md/top.pdb
+
+sent 1,805 bytes  received 623,048,335 bytes  3,719,702.33 bytes/sec
+total size is 623,018,006  speedup is 1.00
+Killed by signal 1.
+receiving incremental file list
+slab_DDX4-800_ssACUG24-16_2/
+slab_DDX4-800_ssACUG24-16_2/log.1.err
+slab_DDX4-800_ssACUG24-16_2/log.1.out
+slab_DDX4-800_ssACUG24-16_2/log.2.err
+slab_DDX4-800_ssACUG24-16_2/log.2.out
+slab_DDX4-800_ssACUG24-16_2/prepare.py
+slab_DDX4-800_ssACUG24-16_2/sbtach_repeat.sh
+slab_DDX4-800_ssACUG24-16_2/submit1.slurm
+slab_DDX4-800_ssACUG24-16_2/submit2.slurm
+slab_DDX4-800_ssACUG24-16_2/submit3.slurm
+slab_DDX4-800_ssACUG24-16_2/submit4.slurm
+slab_DDX4-800_ssACUG24-16_2/submit5.slurm
+slab_DDX4-800_ssACUG24-16_2/submit6.slurm
+slab_DDX4-800_ssACUG24-16_2/write_submit.sh
+slab_DDX4-800_ssACUG24-16_2/input/
+slab_DDX4-800_ssACUG24-16_2/input/acug.pdb
+slab_DDX4-800_ssACUG24-16_2/input/domains.yaml
+slab_DDX4-800_ssACUG24-16_2/input/fastalib.fasta
+slab_DDX4-800_ssACUG24-16_2/input/residues_C2RNA.csv
+slab_DDX4-800_ssACUG24-16_2/md/
+slab_DDX4-800_ssACUG24-16_2/md/angles_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_2/md/basebase_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_2/md/bonds_DDX4.txt
+slab_DDX4-800_ssACUG24-16_2/md/bonds_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_2/md/checkpoint.pdb
+slab_DDX4-800_ssACUG24-16_2/md/components.yaml
+slab_DDX4-800_ssACUG24-16_2/md/config.yaml
+slab_DDX4-800_ssACUG24-16_2/md/equilibration_final.pdb
+slab_DDX4-800_ssACUG24-16_2/md/equilibration_md.dcd
+slab_DDX4-800_ssACUG24-16_2/md/log.1.run
+slab_DDX4-800_ssACUG24-16_2/md/log.2.run
+slab_DDX4-800_ssACUG24-16_2/md/md.dcd
+slab_DDX4-800_ssACUG24-16_2/md/md.log
+slab_DDX4-800_ssACUG24-16_2/md/md.xml
+slab_DDX4-800_ssACUG24-16_2/md/md_20252706_02h05m45s.pdb
+slab_DDX4-800_ssACUG24-16_2/md/restart.chk
+slab_DDX4-800_ssACUG24-16_2/md/run.py
+slab_DDX4-800_ssACUG24-16_2/md/top.pdb
+
+sent 713 bytes  received 615,942,686 bytes  4,447,244.76 bytes/sec
+total size is 615,789,993  speedup is 1.00
+Killed by signal 1.
+receiving incremental file list
+slab_DDX4-800_ssACUG24-16_3/
+slab_DDX4-800_ssACUG24-16_3/log.1.err
+slab_DDX4-800_ssACUG24-16_3/log.1.out
+slab_DDX4-800_ssACUG24-16_3/log.2.err
+slab_DDX4-800_ssACUG24-16_3/log.2.out
+slab_DDX4-800_ssACUG24-16_3/prepare.py
+slab_DDX4-800_ssACUG24-16_3/sbtach_repeat.sh
+slab_DDX4-800_ssACUG24-16_3/submit1.slurm
+slab_DDX4-800_ssACUG24-16_3/submit2.slurm
+slab_DDX4-800_ssACUG24-16_3/submit3.slurm
+slab_DDX4-800_ssACUG24-16_3/submit4.slurm
+slab_DDX4-800_ssACUG24-16_3/submit5.slurm
+slab_DDX4-800_ssACUG24-16_3/submit6.slurm
+slab_DDX4-800_ssACUG24-16_3/write_submit.sh
+slab_DDX4-800_ssACUG24-16_3/input/
+slab_DDX4-800_ssACUG24-16_3/input/acug.pdb
+slab_DDX4-800_ssACUG24-16_3/input/domains.yaml
+slab_DDX4-800_ssACUG24-16_3/input/fastalib.fasta
+slab_DDX4-800_ssACUG24-16_3/input/residues_C2RNA.csv
+slab_DDX4-800_ssACUG24-16_3/md/
+slab_DDX4-800_ssACUG24-16_3/md/angles_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_3/md/basebase_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_3/md/bonds_DDX4.txt
+slab_DDX4-800_ssACUG24-16_3/md/bonds_ss_acug24.txt
+slab_DDX4-800_ssACUG24-16_3/md/checkpoint.pdb
+slab_DDX4-800_ssACUG24-16_3/md/components.yaml
+slab_DDX4-800_ssACUG24-16_3/md/config.yaml
+slab_DDX4-800_ssACUG24-16_3/md/equilibration_final.pdb
+slab_DDX4-800_ssACUG24-16_3/md/equilibration_md.dcd
+slab_DDX4-800_ssACUG24-16_3/md/log.1.run
+slab_DDX4-800_ssACUG24-16_3/md/log.2.run
+slab_DDX4-800_ssACUG24-16_3/md/md.dcd
+slab_DDX4-800_ssACUG24-16_3/md/md.log
+slab_DDX4-800_ssACUG24-16_3/md/md.xml
+slab_DDX4-800_ssACUG24-16_3/md/md_20252706_01h30m55s.pdb
+slab_DDX4-800_ssACUG24-16_3/md/restart.chk
+slab_DDX4-800_ssACUG24-16_3/md/run.py
+slab_DDX4-800_ssACUG24-16_3/md/top.pdb
+
+sent 713 bytes  received 623,172,422 bytes  4,926,269.84 bytes/sec
+total size is 623,017,966  speedup is 1.00
+Killed by signal 1.
+receiving incremental file list
+slab_DDX4-400_ssACUG24-32/
+slab_DDX4-400_ssACUG24-32/prepare.py
+slab_DDX4-400_ssACUG24-32/input/
+slab_DDX4-400_ssACUG24-32/input/acug.pdb
+slab_DDX4-400_ssACUG24-32/input/domains.yaml
+slab_DDX4-400_ssACUG24-32/input/fastalib.fasta
+slab_DDX4-400_ssACUG24-32/input/residues_C2RNA.csv
+slab_DDX4-400_ssACUG24-32/md/
+slab_DDX4-400_ssACUG24-32/md/angles_ss_acug24.txt
+slab_DDX4-400_ssACUG24-32/md/basebase_ss_acug24.txt
+slab_DDX4-400_ssACUG24-32/md/bonds_DDX4.txt
+slab_DDX4-400_ssACUG24-32/md/bonds_ss_acug24.txt
+slab_DDX4-400_ssACUG24-32/md/components.yaml
+slab_DDX4-400_ssACUG24-32/md/config.yaml
+slab_DDX4-400_ssACUG24-32/md/equilibration_final.pdb
+slab_DDX4-400_ssACUG24-32/md/equilibration_md.dcd
+slab_DDX4-400_ssACUG24-32/md/log.run1
+slab_DDX4-400_ssACUG24-32/md/md.dcd
+slab_DDX4-400_ssACUG24-32/md/md.log
+slab_DDX4-400_ssACUG24-32/md/md.xml
+slab_DDX4-400_ssACUG24-32/md/restart.chk
+slab_DDX4-400_ssACUG24-32/md/run.py
+slab_DDX4-400_ssACUG24-32/md/top.pdb
+
+sent 1,508 bytes  received 567,334,893 bytes  11,234,384.18 bytes/sec
+total size is 567,318,277  speedup is 1.00
+receiving incremental file list
+slab_DDX4-400_ssACUG24-24/
+slab_DDX4-400_ssACUG24-24/prepare.py
+slab_DDX4-400_ssACUG24-24/input/
+slab_DDX4-400_ssACUG24-24/input/acug.pdb
+slab_DDX4-400_ssACUG24-24/input/domains.yaml
+slab_DDX4-400_ssACUG24-24/input/fastalib.fasta
+slab_DDX4-400_ssACUG24-24/input/residues_C2RNA.csv
+slab_DDX4-400_ssACUG24-24/md/
+slab_DDX4-400_ssACUG24-24/md/angles_ss_acug24.txt
+slab_DDX4-400_ssACUG24-24/md/basebase_ss_acug24.txt
+slab_DDX4-400_ssACUG24-24/md/bonds_DDX4.txt
+slab_DDX4-400_ssACUG24-24/md/bonds_ss_acug24.txt
+slab_DDX4-400_ssACUG24-24/md/components.yaml
+slab_DDX4-400_ssACUG24-24/md/config.yaml
+slab_DDX4-400_ssACUG24-24/md/equilibration_final.pdb
+slab_DDX4-400_ssACUG24-24/md/equilibration_md.dcd
+slab_DDX4-400_ssACUG24-24/md/log.run1
+slab_DDX4-400_ssACUG24-24/md/md.dcd
+slab_DDX4-400_ssACUG24-24/md/md.log
+slab_DDX4-400_ssACUG24-24/md/md.xml
+slab_DDX4-400_ssACUG24-24/md/restart.chk
+slab_DDX4-400_ssACUG24-24/md/run.py
+slab_DDX4-400_ssACUG24-24/md/top.pdb
+
+sent 1,508 bytes  received 557,833,505 bytes  11,046,237.88 bytes/sec
+total size is 557,819,193  speedup is 1.00
+receiving incremental file list
+slab_DDX4-400_ssACUG24-8/
+slab_DDX4-400_ssACUG24-8/nohup.out
+slab_DDX4-400_ssACUG24-8/prepare.py
+slab_DDX4-400_ssACUG24-8/input/
+slab_DDX4-400_ssACUG24-8/input/acug.pdb
+slab_DDX4-400_ssACUG24-8/input/domains.yaml
+slab_DDX4-400_ssACUG24-8/input/fastalib.fasta
+slab_DDX4-400_ssACUG24-8/input/residues_C2RNA.csv
+slab_DDX4-400_ssACUG24-8/md/
+slab_DDX4-400_ssACUG24-8/md/angles_ss_acug24.txt
+slab_DDX4-400_ssACUG24-8/md/basebase_ss_acug24.txt
+slab_DDX4-400_ssACUG24-8/md/bonds_DDX4.txt
+slab_DDX4-400_ssACUG24-8/md/bonds_ss_acug24.txt
+slab_DDX4-400_ssACUG24-8/md/components.yaml
+slab_DDX4-400_ssACUG24-8/md/config.yaml
+slab_DDX4-400_ssACUG24-8/md/equilibration_final.pdb
+slab_DDX4-400_ssACUG24-8/md/equilibration_md.dcd
+slab_DDX4-400_ssACUG24-8/md/log.run1
+slab_DDX4-400_ssACUG24-8/md/md.dcd
+slab_DDX4-400_ssACUG24-8/md/md.log
+slab_DDX4-400_ssACUG24-8/md/md.xml
+slab_DDX4-400_ssACUG24-8/md/restart.chk
+slab_DDX4-400_ssACUG24-8/md/run.py
+slab_DDX4-400_ssACUG24-8/md/top.pdb
+
+sent 1,527 bytes  received 607,683,586 bytes  63,966,854.00 bytes/sec
+total size is 607,657,081  speedup is 1.00
+receiving incremental file list
+slab_DDX4-400_ssACUG24-16/
+slab_DDX4-400_ssACUG24-16/prepare.py
+slab_DDX4-400_ssACUG24-16/input/
+slab_DDX4-400_ssACUG24-16/input/acug.pdb
+slab_DDX4-400_ssACUG24-16/input/domains.yaml
+slab_DDX4-400_ssACUG24-16/input/fastalib.fasta
+slab_DDX4-400_ssACUG24-16/input/residues_C2RNA.csv
+slab_DDX4-400_ssACUG24-16/md/
+slab_DDX4-400_ssACUG24-16/md/angles_ss_acug24.txt
+slab_DDX4-400_ssACUG24-16/md/basebase_ss_acug24.txt
+slab_DDX4-400_ssACUG24-16/md/bonds_DDX4.txt
+slab_DDX4-400_ssACUG24-16/md/bonds_ss_acug24.txt
+slab_DDX4-400_ssACUG24-16/md/components.yaml
+slab_DDX4-400_ssACUG24-16/md/config.yaml
+slab_DDX4-400_ssACUG24-16/md/equilibration_final.pdb
+slab_DDX4-400_ssACUG24-16/md/equilibration_md.dcd
+slab_DDX4-400_ssACUG24-16/md/log.run1
+slab_DDX4-400_ssACUG24-16/md/md.dcd
+slab_DDX4-400_ssACUG24-16/md/md.log
+slab_DDX4-400_ssACUG24-16/md/md.xml
+slab_DDX4-400_ssACUG24-16/md/restart.chk
+slab_DDX4-400_ssACUG24-16/md/run.py
+slab_DDX4-400_ssACUG24-16/md/top.pdb
+
+sent 1,508 bytes  received 614,917,261 bytes  81,989,169.20 bytes/sec
+total size is 614,889,062  speedup is 1.00

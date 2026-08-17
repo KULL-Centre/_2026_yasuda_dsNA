@@ -1,0 +1,47 @@
+bilayer_eq: false
+box:
+- 150
+- 150
+- 150
+box_eq: false
+boxscaling_xyz:
+- true
+- true
+- true
+custom_restraint_type: harmonic
+custom_restraints: false
+cutoff_lj: 2.0
+cutoff_yu: 4.0
+eps_lj: 0.2
+ext_force: false
+ext_force_expr: step(d2-18)*d2; d2=periodicdistance(x, y, z, 0, 0, z)^2
+fcustom_restraints: custom_restraints.txt
+fixed_lambda: 0
+frestart: restart.chk
+friction_coeff: 0.01
+gpu_id: 0
+ionic: 0.15
+k_eq: 0.01
+logfreq: 1000000
+pH: 8.0
+platform: CPU
+pressure:
+- 0
+- 0
+- 0
+pressure_coupling: false
+random_number_seed: null
+report_potential_energy: false
+restart: checkpoint
+runtime: 0
+slab_eq: false
+slab_outer: 40
+slab_width: 100
+steps: 200000000
+steps_eq: 10000000
+sysname: md
+temp: 293
+threads: 4
+topol: single
+verbose: true
+wfreq: 100000

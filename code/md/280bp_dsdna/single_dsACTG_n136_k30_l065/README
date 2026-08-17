@@ -1,0 +1,6 @@
+# changes from RNA
+# input residues_C2DNA.csv 
+RBC,p: mass 194.1 -> 178.1
+RNA,r: mass 126.3 -> 126.6
+SRN,s: mass 126.3 -> 126.6
+
